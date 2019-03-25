@@ -1,0 +1,100 @@
+body {
+	background-color: black;
+}
+
+.jumbotron {
+    background-image: url(Bleach2.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+
+main {
+	padding: 15px;
+	margin: 0 0 30px 0;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+    background-image: linear-gradient(gray, lightgray);
+}
+
+header {
+	margin: 12px 0;
+}
+
+nav {
+    
+}
+
+article {
+
+}
+
+aside {
+	margin: 12px 0;
+}
+
+footer {
+	margin: 20px 0 40px;
+}
+
+footer li, footer ul {
+	padding: 0;
+	margin: 0;
+}
+footer li {
+	margin: 0px 10px;
+	list-style: none;
+	display: inline;
+	
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.alignleft {
+            float: left;
+            width:33.33333%;
+            text-align:left;
+        }
+        .aligncenter {
+            float: left;
+            width:33.33333%;
+            text-align:center;
+        }
+        .alignright {
+            float: left;
+            width:33.33333%;
+            text-align:right;
+}
+        
+        .education{
+            margin-top: 25px;
+            background-color: gold;
+            background-image: radial-gradient(black,white);
+            
+        }
+        .email{
+            text-shadow: 1px 1px gold;
+        }
+        .gradient{
+            background-color: green;
+            background-image: linear-gradient(green,gold);
+            height: 75px;
+        }
+        .experience{
+            background-color: green;
+            background-image: radial-gradient(gold,green);
+        }
+        .skills{
+            background-color: green;
+            background-image: radial-gradient(green,gold);
+        }
+        .hobbies{
+            text-shadow: 1px 1px gold;
+        }
